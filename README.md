@@ -1,5 +1,5 @@
 
-# Selenium ile IMBD listeleme
+# Selenium ile IMDB listeleme
 
 ## Selenium
 ![image](https://user-images.githubusercontent.com/81421228/159133429-387b09c6-1b53-42e5-b50f-8e3dfe92bb69.png)
